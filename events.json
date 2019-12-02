@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "name" : "The Event",
+      "date" : "December 1, 2019",
+      "time" : "12:00 am - 14:30 pm",
+      "place" : "1 Willise street",
+      "desc" : "Welsome to participate"
+    },
+    {
+      "name" : "Wellington Event",
+      "date" : "November 14, 2019",
+      "time" : "17:00 pm - 19:30 pm",
+      "place" : "141 Cuba street",
+      "desc" : "Welcome! to our event"
+    },
+    {
+      "name" : "Three Event",
+      "date" : "November 24, 2019",
+      "time" : "17:00 pm - 19:30 pm",
+      "place" : "111 Cuba street",
+      "desc" : "Welcome to our group!!!!"
+    }
+  ]
+}
